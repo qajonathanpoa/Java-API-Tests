@@ -31,6 +31,8 @@ Este repositório centraliza meus estudos e projetos voltados para testes de API
    ```bash
    git clone https://github.com/seu-usuario/Java-api-tests.git
 
+   Cada subpasta contém seu próprio README.md com instruções específicas para o projeto.
+
    📝 Observações
 Todos os testes são realizados com base em APIs públicas ou mockadas para estudo.
 
