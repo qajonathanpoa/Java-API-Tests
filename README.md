@@ -1,5 +1,3 @@
-# Java-API-Tests
-
 # 🔍 Java - API Testing
 
 Repositório dedicado a projetos de automação de testes de **API** utilizando **Java** e frameworks populares como **RestAssured**, **JUnit**, **TestNG**, entre outros.
