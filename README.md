@@ -6,7 +6,9 @@ Repositório dedicado a projetos de automação de testes de **API** utilizando 
 
 Este repositório centraliza meus estudos e projetos voltados para testes de APIs RESTful com Java. Cada projeto foi desenvolvido com foco em boas práticas, organização de código e validações assertivas para garantir a qualidade e o comportamento esperado das APIs.
 
-## 📁 Estrutura
+## 📁 Projetos
+
+## 📁 [API INEXISTENTE-Projeto Automação API-RestAssured-Heroku Booking](https://github.com/qajonathanpoa/restAssuredApiTesting)
 
 ## 🚀 Tecnologias e Ferramentas
 
